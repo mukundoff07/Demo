@@ -1,7 +1,3 @@
-//todo: allow for picture inside of rect/ellipse/stfar
-//todo: connect using arrow
-//todo: for rightToolBar, show fontSize,fontFamily for text for the rest allow to add pictures
-//todo: zoomable
 import React, { Component } from "react";
 
 import {
